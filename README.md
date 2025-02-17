@@ -1,4 +1,4 @@
-# Aplicativo de Login - Traveling Around the World
+# Aplicativo de Login 
 
 Este é um aplicativo de login simples desenvolvido com React Native. Ele permite que os usuários façam login, com campos de entrada para e-mail e senha, e oferece links para criar uma conta ou recuperar a senha.
 
